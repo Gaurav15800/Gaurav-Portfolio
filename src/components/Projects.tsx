@@ -54,7 +54,7 @@ export function Projects() {
                       <Clock className="w-4 h-4 text-primary/60" />
                       {project.duration}
                     </div>
-                    <h4 className="text-4xl font-bold font-sans tracking-tight mb-2">{project.title}</h4>
+                    <h4 className="text-2xl font-bold font-sans tracking-tight mb-2">{project.title}</h4>
                   </div>
                   <a 
                     href={project.link} 
@@ -96,7 +96,7 @@ export function Projects() {
                 <div className="w-10 h-10 mb-6 text-primary group-hover:scale-110 transition-transform">
                   <sp.icon className="w-8 h-8" />
                 </div>
-                <h4 className="font-bold text-xl mb-2 tracking-tight line-clamp-2 min-h-[48px] flex items-center">{sp.title}</h4>
+                <h4 className="font-bold text-lg mb-2 tracking-tight line-clamp-2 min-h-[48px] flex items-center">{sp.title}</h4>
                 <p className="text-[0.7rem] text-text-dim leading-relaxed line-clamp-3">
                   {sp.text}
                 </p>
