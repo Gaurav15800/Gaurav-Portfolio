@@ -18,9 +18,9 @@ export const PROJECTS = [
   {
     title: "iXceed Solutions",
     role: "Content & Marketing Manager",
-    duration: "May 2026 - Present",
+    duration: "May 2025 - Present",
     description: "I drive organic growth through content creation, SEO, and LinkedIn lead generation. I focus on building consistent brand visibility while securing industry awards to enhance credibility and inbound engagement.",
-    achievement: "60% Increase in Brand Impressions, 20% Boost in CV Submissions & Leads to 2 Clients",
+    achievement: "35% Increase in Brand Impressions, 20% Boost in CV Submissions & Leads to 2 Clients",
     image: "https://lh3.googleusercontent.com/u/0/d/1AOW0kWQIFbrqL3K6jH0PC_9Ic5VYC75e",
     link: "https://ixceed-solutions.com/",
     tags: ["SEO Strategy", "Content Marketing", "LinkedIn Leads"]
