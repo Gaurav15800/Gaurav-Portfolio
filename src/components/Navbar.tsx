@@ -4,7 +4,7 @@ import { Menu, X, ArrowUpRight } from 'lucide-react';
 import { cn } from '../lib/utils';
 
 const NAV_LINKS = [
-  { name: 'Hero', href: '#hero' },
+  { name: 'Home', href: '#hero' },
   { name: 'Projects', href: '#projects' },
   { name: 'Skills', href: '#expertise' },
   { name: 'Tools', href: '#tools' },
