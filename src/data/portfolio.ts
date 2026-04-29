@@ -76,12 +76,12 @@ export const PROJECTS = [
     tags: ["Local SEO", "GMB Optimization", "Foot Traffic"]
   },
   {
-    title: "DigitVibes",
+    title: "DigitVibes' Project",
     role: "Influencer Marketer",
     duration: "March 2022 – August 2022",
     description: "Executed influencer marketing campaigns by identifying relevant creators, managing collaborations, and aligning content with brand goals to maximize reach and engagement. Focused on building partnerships that drive visibility and audience connection.",
     achievement: "Generated 500K+ Views Across Campaigns Through Influencer Collaborations",
-    image: "https://lh3.googleusercontent.com/u/0/d/1AOW0kWQIFbrqL3K6jH0PC_9Ic5VYC75e",
+    image: "https://media.sproutsocial.com/uploads/2024/03/PPR-March-roundup-influencer-marketing-themed-Final-x2.webp",
     link: "https://digitvibes.com/",
     tags: ["Outreach", "Negotiation", "Influencer Marketing"]
   },
