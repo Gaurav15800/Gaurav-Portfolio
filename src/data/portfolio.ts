@@ -76,6 +76,16 @@ export const PROJECTS = [
     tags: ["Local SEO", "GMB Optimization", "Foot Traffic"]
   },
   {
+    title: "DigitVibes",
+    role: "Influencer Marketer",
+    duration: "March 2022 – August 2022",
+    description: "Executed influencer marketing campaigns by identifying relevant creators, managing collaborations, and aligning content with brand goals to maximize reach and engagement. Focused on building partnerships that drive visibility and audience connection.",
+    achievement: "Generated 500K+ Views Across Campaigns Through Influencer Collaborations",
+    image: "https://lh3.googleusercontent.com/u/0/d/1AOW0kWQIFbrqL3K6jH0PC_9Ic5VYC75e",
+    link: "https://digitvibes.com/",
+    tags: ["Outreach", "Negotiation", "Influencer Marketing"]
+  },
+  {
     title: "WebMeTools",
     role: "Digital Marketing Executive",
     duration: "Jan 2021 - Dec 2023",
