@@ -65,7 +65,7 @@ export function Hero() {
               <MessageCircle className="w-5 h-5 transition-transform group-hover:scale-110" />
             </a>
             <a 
-              href="https://drive.google.com/file/d/1iFQzwtv1Ui97AxbyfIQqQFi0sPSZb7XR/view?usp=sharing"
+              href="https://drive.google.com/file/d/1WbfIuB8-jeDDhmHjSWPYd5Wu_KaOTie4/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-minimal-outline group"
